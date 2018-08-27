@@ -30,8 +30,8 @@ input.search {
     /* outline-style: dashed; */
     border: 10px solid #F7F7F7;
     width: 120%;
-    position: relative;
     left: -10%;
+    position: relative;
     top: 10px;
     z-index: 2;
     border-radius: 5px;
@@ -74,3 +74,8 @@ span.population {
 hl {
     background: honeydew;
 }
+
+
+/* 
+
+*/
